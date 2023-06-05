@@ -1,4 +1,4 @@
-<!-- # PHP Shopify SDK
+# PHP Shopify SDK
 
 [![Build Status](https://travis-ci.org/phpclassic/php-shopify.svg?branch=master)](https://travis-ci.org/phpclassic/php-shopify) [![Monthly Downloads](https://poser.pugx.org/phpclassic/php-shopify/d/monthly)](https://packagist.org/packages/phpclassic/php-shopify) [![Total Downloads](https://poser.pugx.org/phpclassic/php-shopify/downloads)](https://packagist.org/packages/phpclassic/php-shopify) [![Latest Stable Version](https://poser.pugx.org/phpclassic/php-shopify/v/stable)](https://packagist.org/packages/phpclassic/php-shopify) [![Latest Unstable Version](https://poser.pugx.org/phpclassic/php-shopify/v/unstable)](https://packagist.org/packages/phpclassic/php-shopify) [![License](https://poser.pugx.org/phpclassic/php-shopify/license)](https://packagist.org/packages/phpclassic/php-shopify) [![Hire](https://img.shields.io/badge/Hire-Upwork-green.svg)](https://www.upwork.com/fl/tareqmahmood?s=1110580755107926016)
 
@@ -626,4 +626,4 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/phpshopify/sponsor/26/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/26/avatar.svg"></a>
 <a href="https://opencollective.com/phpshopify/sponsor/27/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/27/avatar.svg"></a>
 <a href="https://opencollective.com/phpshopify/sponsor/28/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/28/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/29/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/29/avatar.svg"></a> -->
+<a href="https://opencollective.com/phpshopify/sponsor/29/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/29/avatar.svg"></a>
