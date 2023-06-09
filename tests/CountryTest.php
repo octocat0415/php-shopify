@@ -7,7 +7,6 @@
 
 namespace PHPShopify;
 
-
 class CountryTest extends TestSimpleResource
 {
     /**
