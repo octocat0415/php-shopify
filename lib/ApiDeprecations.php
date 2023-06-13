@@ -1,12 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * @author Tareq Mahmood <tareqtms@yahoo.com>
- * @author Steve Barbera <whobutsb@gmail.com>
- * Created at 8/18/16 3:39 PM UTC+06:00
- *
- * @see https://shopify.dev/api/admin-rest/2022-04/resources/deprecated-api-calls#get-deprecated-api-calls Shopify API Reference for API Deprecations
- */
 
 namespace PHPShopify;
 

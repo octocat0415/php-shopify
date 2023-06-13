@@ -1,12 +1,6 @@
 <?php
 
 namespace PHPShopify;
-
-/**
- * Class AccessScope
- * @package PHPShopify
- * @author Alexey Sinkevich
- */
 class AccessScope extends ShopifyResource
 {
     /**
