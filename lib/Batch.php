@@ -1,9 +1,4 @@
 <?php
-/**
- * @see https://help.shopify.com/api/reference/discounts/discountcode Shopify API Reference for PriceRule
- */
-
-namespace PHPShopify;
 
 
 /**
