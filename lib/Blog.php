@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * @author Tareq Mahmood <tareqtms@yahoo.com>
- * Created at 8/18/16 10:46 AM UTC+06:00
- *
- * @see https://help.shopify.com/api/reference/blog Shopify API Reference for Blog
- */
 
 namespace PHPShopify;
 
