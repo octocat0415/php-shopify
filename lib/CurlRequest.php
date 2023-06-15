@@ -1,9 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * @author Tareq Mahmood <tareqtms@yahoo.com>
- * Created at 8/17/16 2:50 PM UTC+06:00
- */
 
 namespace PHPShopify;
 
