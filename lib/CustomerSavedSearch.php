@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * @author Tareq Mahmood <tareqtms@yahoo.com>
- * Created at 8/19/16 2:07 PM UTC+06:00
- *
- * @see https://help.shopify.com/api/reference/customersavedsearch Shopify API Reference for CustomerSavedSearch
- */
 
 namespace PHPShopify;
 

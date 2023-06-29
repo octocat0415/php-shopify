@@ -1,8 +1,4 @@
 <?php
-/**
- *
- * @see https://shopify.dev/docs/admin-api/rest/reference/shipping-and-fulfillment/fulfillmentorder Shopify API Reference for Fulfillment Order
- */
 
 namespace PHPShopify;
 

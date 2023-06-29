@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Tareq
- * Date: 5/30/2019
- * Time: 3:25 PM
- */
 
 namespace PHPShopify;
 

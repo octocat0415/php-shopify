@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * @author Tareq Mahmood <tareqtms@yahoo.com>
- * Created at 8/19/16 10:58 AM UTC+06:00
- *
- * @see https://help.shopify.com/api/reference/comment Shopify API Reference for Comment
- */
 
 namespace PHPShopify;
 
