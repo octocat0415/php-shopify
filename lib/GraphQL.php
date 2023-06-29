@@ -1,12 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Tareq
- * Date: 5/27/2019
- * Time: 12:36 PM
- *
- * @see https://help.shopify.com/en/api/graphql-admin-api GraphQL Admin API
- */
 
 namespace PHPShopify;
 
